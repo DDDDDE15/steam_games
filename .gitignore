@@ -1,0 +1,27 @@
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+
+# Данные
+data/
+*.csv
+*.xlsx
+*.parquet
+*.sqlite3
+
+# Результаты работы и кеш
+.ipynb_checkpoints/
+__pycache__/
+*.log
+
+# Локальные настройки IDE
+.idea/
+.vscode/
+
+# Все артинки
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.html
