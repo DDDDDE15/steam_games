@@ -5,3 +5,5 @@ matplotlib
 seaborn
 scikit_posthocs
 pingouin
+
+scikit-learn
